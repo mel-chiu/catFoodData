@@ -1,0 +1,24 @@
+{
+  "name": "catfoodnl",
+  "version": "1.0.0",
+  "description": "I record all the food my cat has tried in The Netherlands",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "catfoodNL-Database"
+  },
+  "keywords": [
+    "cat",
+    "catfood",
+    "database",
+    "mongoDB"
+  ],
+  "author": "Mel",
+  "license": "ISC",
+  "dependencies": {
+    "mongodb": "^3.5.8"
+  }
+}
